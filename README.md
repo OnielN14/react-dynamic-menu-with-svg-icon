@@ -13,10 +13,11 @@ To run the project, just execute this command on your terminal (don't forget to 
 # Run Development Server
 npm run dev
 ```
-
-The development would be listen on http://localhost:3000 by default.
-
 > Check `package.json` for other scripts.
+> 
+The development would be listen on http://localhost:3000 by default. 
+
+Or, you can just open this project on CodeSandbox (https://codesandbox.io/s/github/OnielN14/react-dynamic-menu-with-svg-icon)
 
 ### Note
 
