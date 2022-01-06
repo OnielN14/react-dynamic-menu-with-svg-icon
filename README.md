@@ -3,11 +3,11 @@
 Bootstraped with [Vite](https://vitejs.dev/) and
 [Chakra UI](https://chakra-ui.com/). The project uses
 [react-inlinesvg](https://github.com/gilbarbara/react-inlinesvg) package under
-the hood, so make sure the check the package.
+the hood, so make sure to check the package.
 
 ## How to Run
 
-To run the project, just execute this command on your terminal :
+To run the project, just execute this command on your terminal (don't forget to run `npm install` first) :
 
 ```sh
 # Run Development Server
